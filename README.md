@@ -7,8 +7,7 @@ Analysis of various machine learning algorithms in Scikit-learn using a modified
 ## Requirements:
 The code is contained in a .ipynb file - To run you must have one of the following:
 - Jupyter notebook (or another notebook editor which supports .ipynb files)
-- `ipykernel` and an IDE supporting .ipynb files
-- A running instance of https://uvic.syzygy.ca
+- `ipykernel` and an IDE with .ipynb  support
 
 Additionally, the notebook should be run in an up-to-date (Feb.2025) python environment with the following python packages:
 - `pandas`
